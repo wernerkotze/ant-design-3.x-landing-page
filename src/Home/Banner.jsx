@@ -52,7 +52,7 @@ class Banner extends React.PureComponent {
               Top Company
             </h1>
             <p key="p">
-              <FormattedMessage id="app.home.introduce" />
+              Building reality beyond ideas
             </p>
           </QueueAnim>
           {!isMobile && (

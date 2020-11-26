@@ -99,7 +99,7 @@ export default function Page2({ isMobile }) {
   return (
     <div className="home-page-wrapper page2" id="page2">
       <div className="page" >
-        <h2><FormattedMessage id="app.home.solution" /></h2>
+        <h2> About </h2>
         <ScrollOverPack component={Row} className="page2-content" playScale="0.4">
           <QueueAnim
             component={Col}

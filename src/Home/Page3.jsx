@@ -56,7 +56,7 @@ export default function Page3() {
         </svg>
       </div>
       <div className="page" >
-        <h2>工具&资源</h2>
+        <h2>Clients</h2>
         <ScrollOverPack location="page3">
           <QueueAnim key="queue" component={Row} type="bottom" leaveReverse>
             {children}
